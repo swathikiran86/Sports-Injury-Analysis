@@ -1,8 +1,7 @@
 # Sports-Injury-Analysis
 
-Question
- The head coach of a team is concerned with the number of injuries sustained by their
- players in games. This task is to explain the drivers of this injury risk in the given dataset.
+Question:
+Predict the injuries based on the given data and identify the features most contributing the to the injuries?
  
  
 About Dataset
@@ -26,3 +25,7 @@ Modelling - Tasks
 - Machine Learning model implementation
 - Evaluating results using F1 score
 - Visualising results
+
+Conclusion - Taks
+- Identifying major features contributing for injuries
+- Suggesting changes that can avoid injuries based on the statustical analysis.
